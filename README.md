@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm a Software Developer!
 
-<!--
-**masamarsa/masamarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Web Application Developer
+- Interested in systems programming
+- Learning Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+LIKE:)
+
+[![LIKE:)](https://skillicons.dev/icons?i=cpp,swift,c,bash,git,github,linux,apple,md,html,discord,latex,neovim,vim,kali&theme=dark&perline=3)](https://skillicons.dev)
+
+Useful but DO NOT LIKE:(
+
+[![LIKE:)](https://skillicons.dev/icons?i=ts,js,cs,azure,cmake,css,py,java&theme=dark&perline=3)](https://skillicons.dev)
+
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=masamarsa&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masamarsa&layout=compact)
