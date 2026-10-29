@@ -1,24 +1,36 @@
-# Hello, I'm a Software Developer!
+<div align="center">
 
-## About Me
+![Personal network interface — Masamarsa](./assets/home-hud.svg)
 
-- Web Application Developer
-- Interested in systems programming
-- Learning Swift
+### MASAMARSA // PERSONAL NODE
+`WEB APPLICATION DEVELOPER` &nbsp;·&nbsp; `SYSTEMS PROGRAMMING` &nbsp;·&nbsp; `LEARNING SWIFT`
 
-## Tech Stack
+</div>
 
-LIKE:)
+---
 
-[![LIKE:)](https://skillicons.dev/icons?i=cpp,swift,c,bash,git,github,linux,apple,md,html,discord,latex,neovim,vim,kali&theme=dark&perline=3)](https://skillicons.dev)
+### PROFILE
 
-Useful but DO NOT LIKE:(
+| CURRENT FOCUS | INTERESTS |
+|:--|:--|
+| Web application development | Systems programming |
+| Learning Swift | Developer tools & open source |
 
-[![LIKE:)](https://skillicons.dev/icons?i=ts,js,cs,azure,cmake,css,py,java&theme=dark&perline=3)](https://skillicons.dev)
+### TOOLKIT
 
+**Daily drivers**
 
-## GitHub Stats
+[![C++, Swift, C, Bash, Git, GitHub, Linux, Apple, Markdown, HTML, Discord, LaTeX, Neovim, Vim, Kali](https://skillicons.dev/icons?i=cpp,swift,c,bash,git,github,linux,apple,md,html,discord,latex,neovim,vim,kali&theme=dark&perline=5)](https://skillicons.dev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=masamarsa&show_icons=true)
+**Occasional contact**
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masamarsa&layout=compact)
+[![TypeScript, JavaScript, C#, Azure, CMake, CSS, Python, Java](https://skillicons.dev/icons?i=ts,js,cs,azure,cmake,css,py,java&theme=dark&perline=8)](https://skillicons.dev)
+
+### GITHUB TELEMETRY
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masamarsa&show_icons=true&theme=transparent&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masamarsa&layout=compact&theme=transparent&hide_border=true)
+
+</div>
